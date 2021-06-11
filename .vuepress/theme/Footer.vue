@@ -39,7 +39,7 @@
                         <small>
                             created by
                             <b-link class="text-warning" href="https://vittominacori.github.io/" target="_blank">
-                                vittominacori
+                                Sonar LaunchPad
                             </b-link>
                         </small>
                     </b-list-group-item>
